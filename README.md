@@ -1,5 +1,8 @@
 # NetExec Virtual Environment Launcher
 # (c) J~Net 2025
+# https://jnet.forumotion.com/t2173-raspberry-pi-nxc-netexec-ubuntu#3344
+# https://github.com/jamieduk/nxc-For-RPI5-Ubuntu
+
 
 This project provides a clean way to install and run NetExec inside an isolated Python virtual environment on Ubuntu Noble ARM64 (Raspberry Pi 5 tested).
 
