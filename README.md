@@ -32,3 +32,7 @@ Make the installer executable:
 
 ```bash
 sudo chmod +x *.sh
+
+./setup.sh
+
+./start.sh
