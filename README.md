@@ -31,4 +31,4 @@ Activates the virtual environment and opens an interactive shell that keeps you 
 Make the installer executable:
 
 ```bash
-chmod +x setup.sh
+sudo chmod +x *.sh
