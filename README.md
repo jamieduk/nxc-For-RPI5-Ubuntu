@@ -26,7 +26,7 @@ Activates the virtual environment and opens an interactive shell that keeps you 
 
 ---
 
-## Installation
+## Installation & Usage
 
 Make the installer executable:
 
